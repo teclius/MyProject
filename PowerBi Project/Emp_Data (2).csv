@@ -1,0 +1,526 @@
+Country,Product,Units_Sold,Price,Cost,Date,Month_Number,Month,Year
+Canada,Binder,292,5,2,2019-02-01,2,February,2019
+India,Binder,974,5,2,2019-02-01,2,February,2019
+Canada,Binder,2518,5,2,2019-06-01,6,June,2019
+Germany,Binder,1006,5,2,2019-06-01,6,June,2019
+Germany,Binder,367,5,2,2019-07-01,7,July,2019
+India,Binder,883,5,2,2019-08-01,8,August,2019
+India,Binder,2472,5,2,2019-09-01,9,September,2019
+United States,Binder,1143,5,2,2019-10-01,10,October,2019
+Canada,Binder,1817,5,2,2019-12-01,12,December,2019
+Germany,Binder,1513,5,2,2019-12-01,12,December,2019
+France,Binder,3945,5,2,2019-01-01,1,January,2019
+France,Binder,2296,5,2,2019-02-01,2,February,2019
+France,Binder,1030,5,2,2019-05-01,5,May,2019
+United States,Binder,1514,5,2,2019-02-01,2,February,2019
+United States,Binder,4492.5,5,2,2019-04-01,4,April,2019
+United States,Binder,727,5,2,2019-06-01,6,June,2019
+France,Binder,787,5,2,2019-06-01,6,June,2019
+India,Binder,1823,5,2,2019-07-01,7,July,2019
+Germany,Binder,747,5,2,2019-09-01,9,September,2019
+United States,Binder,2905,5,2,2019-11-01,11,November,2019
+France,Binder,2155,5,2,2019-12-01,12,December,2019
+Canada,Binder,2363,5,2,2019-02-01,2,February,2019
+France,Binder,918,5,2,2019-05-01,5,May,2019
+Germany,Binder,1728,5,2,2019-05-01,5,May,2019
+United States,Binder,1142,5,2,2019-06-01,6,June,2019
+India,Binder,662,5,2,2019-06-01,6,June,2019
+Canada,Binder,1295,5,2,2019-10-01,10,October,2019
+Canada,Binder,1916,5,2,2019-12-01,12,December,2019
+Canada,Binder,2852,5,2,2019-12-01,12,December,2019
+Canada,Binder,2729,5,2,2019-12-01,12,December,2019
+France,Binder,1055,5,2,2019-12-01,12,December,2019
+India,Binder,1084,5,2,2019-12-01,12,December,2019
+France,Binder,2434.5,5,2,2019-01-01,1,January,2019
+Canada,Binder,1774,5,2,2019-03-01,3,March,2019
+France,Binder,1901,5,2,2019-06-01,6,June,2019
+Germany,Binder,689,5,2,2019-06-01,6,June,2019
+Germany,Binder,1570,5,2,2019-06-01,6,June,2019
+United States,Binder,1369.5,5,2,2019-07-01,7,July,2019
+Canada,Binder,2009,5,2,2019-10-01,10,October,2019
+France,Binder,1287,5,2,2019-12-01,12,December,2019
+Germany,Binder,1706,5,2,2019-12-01,12,December,2019
+India,Binder,2031,5,2,2019-10-01,10,October,2019
+Canada,Binder,4251,5,2,2019-01-01,1,January,2019
+Germany,Binder,795,5,2,2019-03-01,3,March,2019
+Germany,Binder,1414.5,5,2,2019-04-01,4,April,2019
+United States,Binder,2918,5,2,2019-05-01,5,May,2019
+United States,Binder,3450,5,2,2019-07-01,7,July,2019
+France,Binder,2988,5,2,2019-07-01,7,July,2019
+Canada,Binder,218,5,2,2019-09-01,9,September,2019
+Canada,Binder,2074,5,2,2019-09-01,9,September,2019
+United States,Binder,1056,5,2,2019-09-01,9,September,2019
+United States,Binder,274,5,2,2019-12-01,12,December,2019
+India,Binder,1138,5,2,2019-12-01,12,December,2019
+Germany,Binder,1372,5,2,2019-01-01,1,January,2019
+India,Binder,2689,5,2,2019-10-01,10,October,2019
+Canada,Binder,2431,5,2,2019-12-01,12,December,2019
+France,Binder,1303,5,2,2019-02-01,2,February,2019
+United States,Binder,2992,5,2,2019-03-01,3,March,2019
+France,Binder,2385,5,2,2019-03-01,3,March,2019
+India,Binder,1607,5,2,2019-04-01,4,April,2019
+United States,Binder,2327,5,2,2019-05-01,5,May,2019
+United States,Binder,991,5,2,2019-06-01,6,June,2019
+United States,Binder,602,5,2,2019-06-01,6,June,2019
+France,Binder,2620,5,2,2019-09-01,9,September,2019
+United States,Binder,861,5,2,2019-10-01,10,October,2019
+United States,Binder,2663,5,2,2019-12-01,12,December,2019
+France,Binder,3801,5,2,2019-04-01,4,April,2019
+France,Binder,1496,5,2,2019-06-01,6,June,2019
+United States,Binder,2198,5,2,2019-08-01,8,August,2019
+Germany,Binder,1743,5,2,2019-08-01,8,August,2019
+United States,Binder,1153,5,2,2019-10-01,10,October,2019
+Canada,Binder,1702,5,2,2019-05-01,5,May,2019
+France,Binder,448,5,2,2019-06-01,6,June,2019
+Germany,Binder,3513,5,2,2019-07-01,7,July,2019
+France,Binder,2101,5,2,2019-08-01,8,August,2019
+France,Binder,1535,5,2,2019-09-01,9,September,2019
+Canada,Binder,257,5,2,2019-05-01,5,May,2019
+India,Binder,1114,5,2,2019-03-01,3,March,2019
+Germany,Binder,1259,5,2,2019-04-01,4,April,2019
+Germany,Binder,1095,5,2,2019-05-01,5,May,2019
+Germany,Binder,1366,5,2,2019-06-01,6,June,2019
+India,Binder,2460,5,2,2019-06-01,6,June,2019
+United States,Binder,678,5,2,2019-08-01,8,August,2019
+Germany,Binder,1598,5,2,2019-08-01,8,August,2019
+Germany,Binder,1934,5,2,2019-09-01,9,September,2019
+India,Binder,2993,5,2,2019-09-01,9,September,2019
+India,Binder,1362,5,2,2019-12-01,12,December,2019
+India,Binder,2565,5,2,2019-01-01,1,January,2019
+India,Binder,2417,5,2,2019-01-01,1,January,2019
+United States,Binder,3675,5,2,2019-04-01,4,April,2019
+Canada,Binder,1094,5,2,2019-06-01,6,June,2019
+France,Binder,1227,5,2,2019-10-01,10,October,2019
+France,Binder,1324,5,2,2019-11-01,11,November,2019
+United States,Binder,2797,5,2,2019-12-01,12,December,2019
+United States,Binder,973,5,2,2019-03-01,3,March,2019
+India,Binder,1038,5,2,2019-06-01,6,June,2019
+Germany,Binder,360,5,2,2019-10-01,10,October,2019
+France,Binder,1954,5,2,2019-03-01,3,March,2019
+India,Binder,591,5,2,2019-05-01,5,May,2019
+Germany,Binder,241,5,2,2019-10-01,10,October,2019
+France,Binder,2532,5,2,2019-04-01,4,April,2019
+Canada,Binder,873,5,2,2019-01-01,1,January,2019
+India,Binder,1122,5,2,2019-03-01,3,March,2019
+Canada,Binder,2104.5,5,2,2019-07-01,7,July,2019
+Canada,Binder,4026,5,2,2019-07-01,7,July,2019
+France,Binder,2425.5,5,2,2019-07-01,7,July,2019
+Canada,Binder,2394,5,2,2019-08-01,8,August,2019
+India,Binder,1984,5,2,2019-08-01,8,August,2019
+France,Binder,2441,5,2,2019-10-01,10,October,2019
+Canada,Binder,1366,5,2,2019-11-01,11,November,2019
+United States,Binder,3495,5,2,2019-01-01,1,January,2019
+India,Binder,886,5,2,2019-06-01,6,June,2019
+India,Binder,2156,5,2,2019-10-01,10,October,2019
+India,Binder,905,5,2,2019-10-01,10,October,2019
+France,Binder,1594,5,2,2019-11-01,11,November,2019
+Germany,Binder,1359,5,2,2019-11-01,11,November,2019
+India,Binder,2150,5,2,2019-11-01,11,November,2019
+India,Binder,1197,5,2,2019-11-01,11,November,2019
+India,Binder,1233,5,2,2019-12-01,12,December,2019
+Germany,Binder,1531,5,2,2019-12-01,12,December,2019
+United States,Binder,1438.5,5,2,2019-01-01,1,January,2019
+Germany,Binder,807,5,2,2019-01-01,1,January,2019
+United States,Binder,2641,5,2,2019-02-01,2,February,2019
+Germany,Binder,2708,5,2,2019-02-01,2,February,2019
+Canada,Binder,2632,5,2,2019-06-01,6,June,2019
+Canada,Binder,1583,5,2,2019-06-01,6,June,2019
+India,Binder,571,5,2,2019-07-01,7,July,2019
+France,Binder,2696,5,2,2019-08-01,8,August,2019
+Canada,Binder,1565,5,2,2019-10-01,10,October,2019
+Canada,Binder,1249,5,2,2019-10-01,10,October,2019
+Germany,Binder,357,5,2,2019-11-01,11,November,2019
+Germany,Binder,1013,5,2,2019-12-01,12,December,2019
+Germany,Binder,278,5,2,2019-02-01,2,February,2019
+Canada,Binder,2428,5,2,2019-03-01,3,March,2019
+United States,Binder,1767,5,2,2019-09-01,9,September,2019
+France,Binder,1393,5,2,2019-10-01,10,October,2019
+India,Binder,260,5,2,2019-02-01,2,February,2019
+United States,Binder,2914,5,2,2019-10-01,10,October,2019
+France,Binder,1731,5,2,2019-10-01,10,October,2019
+Canada,Binder,700,5,2,2019-11-01,11,November,2019
+United States,Binder,1177,5,2,2019-11-01,11,November,2019
+Germany,Binder,1158,5,2,2019-03-01,3,March,2019
+Canada,Binder,1614,5,2,2019-04-01,4,April,2019
+India,Binder,2535,5,2,2019-04-01,4,April,2019
+India,Binder,2851,5,2,2019-05-01,5,May,2019
+Canada,Binder,2559,5,2,2019-08-01,8,August,2019
+Germany,Binder,1085,5,2,2019-10-01,10,October,2019
+Germany,Binder,1175,5,2,2019-10-01,10,October,2019
+United States,Binder,914,5,2,2019-12-01,12,December,2019
+France,Binder,293,5,2,2019-12-01,12,December,2019
+Canada,Binder,723,5,2,2019-04-01,4,April,2019
+Germany,Stapler,921,1,0.2,2019-03-01,3,March,2019
+Canada,Stapler,2518,1,0.2,2019-06-01,6,June,2019
+France,Stapler,1899,1,0.2,2019-06-01,6,June,2019
+Germany,Stapler,1545,1,0.2,2019-06-01,6,June,2019
+India,Stapler,2470,1,0.2,2019-06-01,6,June,2019
+Canada,Stapler,2665.5,1,0.2,2019-07-01,7,July,2019
+India,Stapler,958,1,0.2,2019-08-01,8,August,2019
+Germany,Stapler,2146,1,0.2,2019-09-01,9,September,2019
+United States,Stapler,615,1,0.2,2019-12-01,12,December,2019
+India,Stapler,2214,1,0.2,2019-03-01,3,March,2019
+United States,Stapler,2301,1,0.2,2019-04-01,4,April,2019
+France,Stapler,1375.5,1,0.2,2019-07-01,7,July,2019
+Canada,Stapler,1830,1,0.2,2019-08-01,8,August,2019
+United States,Stapler,1142,1,0.2,2019-06-01,6,June,2019
+United States,Stapler,1566,1,0.2,2019-10-01,10,October,2019
+India,Stapler,690,1,0.2,2019-11-01,11,November,2019
+Germany,Stapler,1958,1,0.2,2019-02-01,2,February,2019
+France,Stapler,1901,1,0.2,2019-06-01,6,June,2019
+France,Stapler,544,1,0.2,2019-09-01,9,September,2019
+France,Stapler,1287,1,0.2,2019-12-01,12,December,2019
+Germany,Stapler,1706,1,0.2,2019-12-01,12,December,2019
+India,Stapler,2031,1,0.2,2019-10-01,10,October,2019
+Canada,Stapler,1967,1,0.2,2019-03-01,3,March,2019
+Germany,Stapler,1859,1,0.2,2019-08-01,8,August,2019
+Germany,Stapler,2021,1,0.2,2019-10-01,10,October,2019
+India,Stapler,1138,1,0.2,2019-12-01,12,December,2019
+France,Stapler,1384.5,1,0.2,2019-01-01,1,January,2019
+United States,Stapler,3627,1,0.2,2019-07-01,7,July,2019
+Germany,Stapler,2342,1,0.2,2019-11-01,11,November,2019
+India,Stapler,980,1,0.2,2019-04-01,4,April,2019
+Germany,Stapler,1460,1,0.2,2019-05-01,5,May,2019
+United States,Stapler,2723,1,0.2,2019-11-01,11,November,2019
+India,Stapler,2340,1,0.2,2019-01-01,1,January,2019
+France,Stapler,2342,1,0.2,2019-11-01,11,November,2019
+France,Stapler,1976,1,0.2,2019-10-01,10,October,2019
+France,Stapler,2181,1,0.2,2019-10-01,10,October,2019
+Canada,Stapler,488,1,0.2,2019-02-01,2,February,2019
+United States,Stapler,1282,1,0.2,2019-06-01,6,June,2019
+France,Stapler,2501,1,0.2,2019-03-01,3,March,2019
+Canada,Stapler,708,1,0.2,2019-06-01,6,June,2019
+Germany,Stapler,645,1,0.2,2019-07-01,7,July,2019
+France,Stapler,1562,1,0.2,2019-08-01,8,August,2019
+Germany,Stapler,711,1,0.2,2019-12-01,12,December,2019
+Canada,Stapler,3802.5,1,0.2,2019-04-01,4,April,2019
+France,Stapler,1666,1,0.2,2019-05-01,5,May,2019
+Canada,Stapler,2321,1,0.2,2019-11-01,11,November,2019
+United States,Stapler,2797,1,0.2,2019-12-01,12,December,2019
+United States,Stapler,2328,1,0.2,2019-09-01,9,September,2019
+United States,Stapler,2313,1,0.2,2019-05-01,5,May,2019
+France,Stapler,2072,1,0.2,2019-12-01,12,December,2019
+Germany,Stapler,766,1,0.2,2019-01-01,1,January,2019
+India,Stapler,2157,1,0.2,2019-12-01,12,December,2019
+United States,Stapler,677,1,0.2,2019-03-01,3,March,2019
+France,Stapler,1773,1,0.2,2019-04-01,4,April,2019
+India,Stapler,2420,1,0.2,2019-09-01,9,September,2019
+Canada,Stapler,2734,1,0.2,2019-10-01,10,October,2019
+India,Stapler,2661,1,0.2,2019-05-01,5,May,2019
+United States,Stapler,982.5,1,0.2,2019-01-01,1,January,2019
+United States,Stapler,1298,1,0.2,2019-02-01,2,February,2019
+India,Stapler,604,1,0.2,2019-06-01,6,June,2019
+India,Stapler,2255,1,0.2,2019-07-01,7,July,2019
+Canada,Stapler,1249,1,0.2,2019-10-01,10,October,2019
+France,Stapler,293,1,0.2,2019-02-01,2,February,2019
+Canada,Stapler,2227.5,1,0.2,2019-01-01,1,January,2019
+Germany,Stapler,1199,1,0.2,2019-04-01,4,April,2019
+Canada,Stapler,200,1,0.2,2019-05-01,5,May,2019
+Canada,Stapler,388,1,0.2,2019-09-01,9,September,2019
+Canada,Stapler,2300,1,0.2,2019-12-01,12,December,2019
+India,Stapler,546,1,0.2,2019-10-01,10,October,2019
+India,Stapler,1368,1,0.2,2019-02-01,2,February,2019
+France,Shredder,2750,5,2.2,2019-02-01,2,February,2019
+United States,Shredder,1953,5,2.2,2019-04-01,4,April,2019
+Germany,Shredder,4219.5,5,2.2,2019-04-01,4,April,2019
+France,Shredder,1899,5,2.2,2019-06-01,6,June,2019
+Germany,Shredder,1686,5,2.2,2019-07-01,7,July,2019
+United States,Shredder,2141,5,2.2,2019-08-01,8,August,2019
+United States,Shredder,1143,5,2.2,2019-10-01,10,October,2019
+United States,Shredder,615,5,2.2,2019-12-01,12,December,2019
+Germany,Shredder,259,5,2.2,2019-03-01,3,March,2019
+India,Shredder,1101,5,2.2,2019-03-01,3,March,2019
+Germany,Shredder,2276,5,2.2,2019-05-01,5,May,2019
+United States,Shredder,1236,5,2.2,2019-11-01,11,November,2019
+France,Shredder,941,5,2.2,2019-11-01,11,November,2019
+Canada,Shredder,1916,5,2.2,2019-12-01,12,December,2019
+India,Shredder,1865,5,2.2,2019-02-01,2,February,2019
+India,Shredder,1074,5,2.2,2019-04-01,4,April,2019
+Germany,Shredder,1907,5,2.2,2019-09-01,9,September,2019
+India,Shredder,1683,5,2.2,2019-07-01,7,July,2019
+India,Shredder,1123,5,2.2,2019-08-01,8,August,2019
+Germany,Shredder,1350,5,2.2,2019-02-01,2,February,2019
+Canada,Shredder,552,5,2.2,2019-08-01,8,August,2019
+Germany,Shredder,1250,5,2.2,2019-12-01,12,December,2019
+France,Shredder,1987.5,5,2.2,2019-01-01,1,January,2019
+India,Shredder,1679,5,2.2,2019-09-01,9,September,2019
+Canada,Shredder,1135,5,2.2,2019-06-01,6,June,2019
+Canada,Shredder,1645,5,2.2,2019-05-01,5,May,2019
+France,Shredder,2876,5,2.2,2019-09-01,9,September,2019
+Canada,Shredder,1118,5,2.2,2019-11-01,11,November,2019
+United States,Shredder,1372,5,2.2,2019-12-01,12,December,2019
+United States,Shredder,1282,5,2.2,2019-06-01,6,June,2019
+Canada,Shredder,708,5,2.2,2019-06-01,6,June,2019
+United States,Shredder,2907,5,2.2,2019-06-01,6,June,2019
+Germany,Shredder,1366,5,2.2,2019-06-01,6,June,2019
+India,Shredder,2460,5,2.2,2019-06-01,6,June,2019
+Germany,Shredder,1520,5,2.2,2019-11-01,11,November,2019
+Germany,Shredder,711,5,2.2,2019-12-01,12,December,2019
+India,Shredder,635,5,2.2,2019-12-01,12,December,2019
+United States,Shredder,2071,5,2.2,2019-09-01,9,September,2019
+Canada,Shredder,1269,5,2.2,2019-10-01,10,October,2019
+India,Shredder,1694,5,2.2,2019-11-01,11,November,2019
+India,Shredder,1038,5,2.2,2019-06-01,6,June,2019
+Canada,Shredder,1630.5,5,2.2,2019-07-01,7,July,2019
+United States,Shredder,579,5,2.2,2019-01-01,1,January,2019
+Canada,Shredder,2240,5,2.2,2019-02-01,2,February,2019
+United States,Shredder,2993,5,2.2,2019-03-01,3,March,2019
+Canada,Shredder,3520.5,5,2.2,2019-04-01,4,April,2019
+India,Shredder,2039,5,2.2,2019-05-01,5,May,2019
+Germany,Shredder,2574,5,2.2,2019-08-01,8,August,2019
+Canada,Shredder,707,5,2.2,2019-09-01,9,September,2019
+France,Shredder,2072,5,2.2,2019-12-01,12,December,2019
+France,Shredder,853,5,2.2,2019-12-01,12,December,2019
+United States,Shredder,3199.5,5,2.2,2019-07-01,7,July,2019
+Germany,Shredder,472,5,2.2,2019-10-01,10,October,2019
+Germany,Shredder,3165,5,2.2,2019-01-01,1,January,2019
+India,Shredder,2629,5,2.2,2019-01-01,1,January,2019
+France,Shredder,1433,5,2.2,2019-05-01,5,May,2019
+India,Shredder,2157,5,2.2,2019-12-01,12,December,2019
+United States,Shredder,270,5,2.2,2019-02-01,2,February,2019
+France,Shredder,3421.5,5,2.2,2019-07-01,7,July,2019
+Canada,Shredder,2734,5,2.2,2019-10-01,10,October,2019
+Canada,Shredder,1659,5,2.2,2019-01-01,1,January,2019
+France,Shredder,1190,5,2.2,2019-06-01,6,June,2019
+India,Shredder,410,5,2.2,2019-10-01,10,October,2019
+France,Shredder,1393,5,2.2,2019-10-01,10,October,2019
+Canada,Shredder,888,5,2.2,2019-03-01,3,March,2019
+United States,Shredder,2844,5,2.2,2019-05-01,5,May,2019
+France,Shredder,2475,5,2.2,2019-08-01,8,August,2019
+United States,Shredder,2914,5,2.2,2019-10-01,10,October,2019
+France,Shredder,1731,5,2.2,2019-10-01,10,October,2019
+France,Shredder,2475,5,2.2,2019-03-01,3,March,2019
+India,Shredder,546,5,2.2,2019-10-01,10,October,2019
+Canada,Peforator,1618.5,4,1.5,2019-01-01,1,January,2019
+Germany,Peforator,1321,4,1.5,2019-01-01,1,January,2019
+France,Peforator,2178,4,1.5,2019-06-01,6,June,2019
+Germany,Peforator,888,4,1.5,2019-06-01,6,June,2019
+India,Peforator,2470,4,1.5,2019-06-01,6,June,2019
+Germany,Peforator,1513,4,1.5,2019-12-01,12,December,2019
+United States,Peforator,1858,4,1.5,2019-02-01,2,February,2019
+India,Peforator,1210,4,1.5,2019-03-01,3,March,2019
+United States,Peforator,2529,4,1.5,2019-07-01,7,July,2019
+Canada,Peforator,1445,4,1.5,2019-09-01,9,September,2019
+France,Peforator,2671,4,1.5,2019-09-01,9,September,2019
+India,Peforator,1397,4,1.5,2019-10-01,10,October,2019
+France,Peforator,2155,4,1.5,2019-12-01,12,December,2019
+Canada,Peforator,742.5,4,1.5,2019-04-01,4,April,2019
+Canada,Peforator,1295,4,1.5,2019-10-01,10,October,2019
+Canada,Peforator,2852,4,1.5,2019-12-01,12,December,2019
+France,Peforator,4243.5,4,1.5,2019-04-01,4,April,2019
+Germany,Peforator,2580,4,1.5,2019-04-01,4,April,2019
+Germany,Peforator,689,4,1.5,2019-06-01,6,June,2019
+United States,Peforator,1947,4,1.5,2019-09-01,9,September,2019
+Canada,Peforator,831,4,1.5,2019-05-01,5,May,2019
+Germany,Peforator,2021,4,1.5,2019-10-01,10,October,2019
+United States,Peforator,274,4,1.5,2019-12-01,12,December,2019
+France,Peforator,1865,4,1.5,2019-02-01,2,February,2019
+Germany,Peforator,1116,4,1.5,2019-02-01,2,February,2019
+France,Peforator,1563,4,1.5,2019-05-01,5,May,2019
+United States,Peforator,991,4,1.5,2019-06-01,6,June,2019
+India,Peforator,2791,4,1.5,2019-11-01,11,November,2019
+United States,Peforator,570,4,1.5,2019-12-01,12,December,2019
+France,Peforator,2487,4,1.5,2019-12-01,12,December,2019
+United States,Peforator,1117.5,4,1.5,2019-01-01,1,January,2019
+Canada,Peforator,2844,4,1.5,2019-06-01,6,June,2019
+India,Peforator,562,4,1.5,2019-09-01,9,September,2019
+United States,Peforator,2030,4,1.5,2019-11-01,11,November,2019
+India,Peforator,727,4,1.5,2019-02-01,2,February,2019
+Canada,Peforator,1884,4,1.5,2019-08-01,8,August,2019
+United States,Peforator,1761,4,1.5,2019-03-01,3,March,2019
+France,Peforator,448,4,1.5,2019-06-01,6,June,2019
+France,Peforator,2181,4,1.5,2019-10-01,10,October,2019
+India,Peforator,1540,4,1.5,2019-08-01,8,August,2019
+France,Peforator,490,4,1.5,2019-11-01,11,November,2019
+India,Peforator,1362,4,1.5,2019-12-01,12,December,2019
+Canada,Peforator,1094,4,1.5,2019-06-01,6,June,2019
+Germany,Peforator,663,4,1.5,2019-05-01,5,May,2019
+Canada,Peforator,819,4,1.5,2019-07-01,7,July,2019
+Germany,Peforator,1580,4,1.5,2019-09-01,9,September,2019
+India,Peforator,521,4,1.5,2019-12-01,12,December,2019
+United States,Peforator,3445.5,4,1.5,2019-04-01,4,April,2019
+Canada,Peforator,1937,4,1.5,2019-02-01,2,February,2019
+Germany,Peforator,792,4,1.5,2019-03-01,3,March,2019
+Germany,Peforator,2811,4,1.5,2019-07-01,7,July,2019
+France,Peforator,2441,4,1.5,2019-10-01,10,October,2019
+India,Peforator,886,4,1.5,2019-06-01,6,June,2019
+India,Peforator,2156,4,1.5,2019-10-01,10,October,2019
+Canada,Peforator,2689,4,1.5,2019-11-01,11,November,2019
+France,Peforator,2521.5,4,1.5,2019-01-01,1,January,2019
+United States,Peforator,2567,4,1.5,2019-06-01,6,June,2019
+Canada,Peforator,923,4,1.5,2019-03-01,3,March,2019
+France,Peforator,1790,4,1.5,2019-03-01,3,March,2019
+India,Peforator,2579,4,1.5,2019-04-01,4,April,2019
+United States,Peforator,1743,4,1.5,2019-05-01,5,May,2019
+Germany,Peforator,280,4,1.5,2019-12-01,12,December,2019
+India,Peforator,801,4,1.5,2019-07-01,7,July,2019
+Canada,Peforator,1496,4,1.5,2019-10-01,10,October,2019
+United States,Peforator,1010,4,1.5,2019-10-01,10,October,2019
+Germany,Peforator,1513,4,1.5,2019-11-01,11,November,2019
+Canada,Peforator,2300,4,1.5,2019-12-01,12,December,2019
+France,Peforator,1174,4,1.5,2019-08-01,8,August,2019
+Germany,Peforator,2767,4,1.5,2019-08-01,8,August,2019
+Germany,Peforator,1085,4,1.5,2019-10-01,10,October,2019
+Canada,USB,2001,3,1.25,2019-02-01,2,February,2019
+Germany,USB,2838,3,1.25,2019-04-01,4,April,2019
+France,USB,2178,3,1.25,2019-06-01,6,June,2019
+Germany,USB,888,3,1.25,2019-06-01,6,June,2019
+France,USB,2151,3,1.25,2019-09-01,9,September,2019
+Canada,USB,1817,3,1.25,2019-12-01,12,December,2019
+Canada,USB,1326,3,1.25,2019-03-01,3,March,2019
+Germany,USB,263,3,1.25,2019-03-01,3,March,2019
+Canada,USB,943.5,3,1.25,2019-04-01,4,April,2019
+United States,USB,727,3,1.25,2019-06-01,6,June,2019
+France,USB,787,3,1.25,2019-06-01,6,June,2019
+Germany,USB,986,3,1.25,2019-09-01,9,September,2019
+India,USB,1397,3,1.25,2019-10-01,10,October,2019
+France,USB,1744,3,1.25,2019-11-01,11,November,2019
+India,USB,662,3,1.25,2019-06-01,6,June,2019
+Germany,USB,2877,3,1.25,2019-10-01,10,October,2019
+Canada,USB,2729,3,1.25,2019-12-01,12,December,2019
+United States,USB,2844,3,1.25,2019-02-01,2,February,2019
+India,USB,1916,3,1.25,2019-04-01,4,April,2019
+Germany,USB,1570,3,1.25,2019-06-01,6,June,2019
+Canada,USB,1874,3,1.25,2019-08-01,8,August,2019
+India,USB,1642,3,1.25,2019-08-01,8,August,2019
+Germany,USB,2479,3,1.25,2019-01-01,1,January,2019
+France,USB,866,3,1.25,2019-05-01,5,May,2019
+France,USB,2177,3,1.25,2019-10-01,10,October,2019
+India,USB,2689,3,1.25,2019-10-01,10,October,2019
+United States,USB,2663,3,1.25,2019-12-01,12,December,2019
+United States,USB,570,3,1.25,2019-12-01,12,December,2019
+France,USB,2487,3,1.25,2019-12-01,12,December,2019
+Canada,USB,2844,3,1.25,2019-06-01,6,June,2019
+India,USB,1498,3,1.25,2019-06-01,6,June,2019
+United States,USB,1153,3,1.25,2019-10-01,10,October,2019
+France,USB,1738.5,3,1.25,2019-04-01,4,April,2019
+Canada,USB,1582,3,1.25,2019-12-01,12,December,2019
+Canada,USB,3244.5,3,1.25,2019-01-01,1,January,2019
+France,USB,959,3,1.25,2019-02-01,2,February,2019
+India,USB,2747,3,1.25,2019-02-01,2,February,2019
+France,USB,574.5,3,1.25,2019-04-01,4,April,2019
+Germany,USB,2338,3,1.25,2019-06-01,6,June,2019
+France,USB,381,3,1.25,2019-08-01,8,August,2019
+Germany,USB,422,3,1.25,2019-08-01,8,August,2019
+Canada,USB,2134,3,1.25,2019-09-01,9,September,2019
+United States,USB,436.5,3,1.25,2019-07-01,7,July,2019
+United States,USB,1956,3,1.25,2019-01-01,1,January,2019
+Germany,USB,2659,3,1.25,2019-02-01,2,February,2019
+United States,USB,1351.5,3,1.25,2019-04-01,4,April,2019
+Germany,USB,880,3,1.25,2019-05-01,5,May,2019
+United States,USB,1867,3,1.25,2019-09-01,9,September,2019
+France,USB,1227,3,1.25,2019-10-01,10,October,2019
+India,USB,877,3,1.25,2019-11-01,11,November,2019
+Germany,USB,360,3,1.25,2019-10-01,10,October,2019
+India,USB,521,3,1.25,2019-12-01,12,December,2019
+India,USB,341,3,1.25,2019-05-01,5,May,2019
+India,USB,641,3,1.25,2019-07-01,7,July,2019
+United States,USB,2807,3,1.25,2019-08-01,8,August,2019
+India,USB,432,3,1.25,2019-09-01,9,September,2019
+Canada,USB,2529,3,1.25,2019-11-01,11,November,2019
+United States,USB,1579,3,1.25,2019-03-01,3,March,2019
+France,USB,1734,3,1.25,2019-01-01,1,January,2019
+India,USB,554,3,1.25,2019-01-01,1,January,2019
+Canada,USB,2109,3,1.25,2019-05-01,5,May,2019
+France,USB,3874.5,3,1.25,2019-07-01,7,July,2019
+United States,USB,986,3,1.25,2019-10-01,10,October,2019
+United States,USB,2387,3,1.25,2019-11-01,11,November,2019
+India,USB,1233,3,1.25,2019-12-01,12,December,2019
+France,USB,1491,3,1.25,2019-03-01,3,March,2019
+Germany,USB,1531,3,1.25,2019-12-01,12,December,2019
+United States,USB,2567,3,1.25,2019-06-01,6,June,2019
+Canada,USB,1583,3,1.25,2019-06-01,6,June,2019
+Canada,USB,1565,3,1.25,2019-10-01,10,October,2019
+Germany,USB,280,3,1.25,2019-12-01,12,December,2019
+India,USB,2903,3,1.25,2019-03-01,3,March,2019
+United States,USB,2541,3,1.25,2019-08-01,8,August,2019
+Canada,USB,1496,3,1.25,2019-10-01,10,October,2019
+United States,USB,1010,3,1.25,2019-10-01,10,October,2019
+Canada,USB,865.5,3,1.25,2019-07-01,7,July,2019
+Germany,USB,492,3,1.25,2019-07-01,7,July,2019
+Germany,USB,1175,3,1.25,2019-10-01,10,October,2019
+Germany,USB,552,3,1.25,2019-11-01,11,November,2019
+France,USB,293,3,1.25,2019-12-01,12,December,2019
+United States,USB,1806,3,1.25,2019-05-01,5,May,2019
+India,Pen,1493,6,2.75,2019-01-01,1,January,2019
+France,Pen,1804,6,2.75,2019-02-01,2,February,2019
+Germany,Pen,2161,6,2.75,2019-03-01,3,March,2019
+Germany,Pen,1006,6,2.75,2019-06-01,6,June,2019
+Germany,Pen,1545,6,2.75,2019-06-01,6,June,2019
+United States,Pen,2821,6,2.75,2019-08-01,8,August,2019
+France,Pen,639,6,2.75,2019-11-01,11,November,2019
+France,Pen,3864,6,2.75,2019-04-01,4,April,2019
+India,Pen,362,6,2.75,2019-05-01,5,May,2019
+Canada,Pen,923,6,2.75,2019-08-01,8,August,2019
+United States,Pen,1566,6,2.75,2019-10-01,10,October,2019
+Germany,Pen,2877,6,2.75,2019-10-01,10,October,2019
+France,Pen,1055,6,2.75,2019-12-01,12,December,2019
+India,Pen,1084,6,2.75,2019-12-01,12,December,2019
+Canada,Pen,2009,6,2.75,2019-10-01,10,October,2019
+Canada,Pen,3850.5,6,2.75,2019-04-01,4,April,2019
+United States,Pen,1465,6,2.75,2019-03-01,3,March,2019
+France,Pen,2177,6,2.75,2019-10-01,10,October,2019
+Canada,Pen,2431,6,2.75,2019-12-01,12,December,2019
+United States,Pen,555,6,2.75,2019-01-01,1,January,2019
+India,Pen,2861,6,2.75,2019-01-01,1,January,2019
+Germany,Pen,807,6,2.75,2019-02-01,2,February,2019
+United States,Pen,602,6,2.75,2019-06-01,6,June,2019
+United States,Pen,2832,6,2.75,2019-08-01,8,August,2019
+France,Pen,1579,6,2.75,2019-08-01,8,August,2019
+United States,Pen,861,6,2.75,2019-10-01,10,October,2019
+Germany,Pen,1250,6,2.75,2019-12-01,12,December,2019
+Canada,Pen,952,6,2.75,2019-02-01,2,February,2019
+United States,Pen,2755,6,2.75,2019-02-01,2,February,2019
+Germany,Pen,1530,6,2.75,2019-05-01,5,May,2019
+France,Pen,1496,6,2.75,2019-06-01,6,June,2019
+India,Pen,1498,6,2.75,2019-06-01,6,June,2019
+Germany,Pen,1001,6,2.75,2019-08-01,8,August,2019
+India,Pen,1333,6,2.75,2019-11-01,11,November,2019
+Canada,Pen,1262,6,2.75,2019-05-01,5,May,2019
+Canada,Pen,1135,6,2.75,2019-06-01,6,June,2019
+United States,Pen,547,6,2.75,2019-11-01,11,November,2019
+Canada,Pen,1582,6,2.75,2019-12-01,12,December,2019
+France,Pen,1659,6,2.75,2019-07-01,7,July,2019
+India,Pen,609,6,2.75,2019-08-01,8,August,2019
+Germany,Pen,2087,6,2.75,2019-09-01,9,September,2019
+France,Pen,1976,6,2.75,2019-10-01,10,October,2019
+United States,Pen,1372,6,2.75,2019-12-01,12,December,2019
+Canada,Pen,598,6,2.75,2019-03-01,3,March,2019
+United States,Pen,2907,6,2.75,2019-06-01,6,June,2019
+Germany,Pen,2338,6,2.75,2019-06-01,6,June,2019
+India,Pen,635,6,2.75,2019-12-01,12,December,2019
+India,Pen,245,6,2.75,2019-05-01,5,May,2019
+Canada,Pen,3793.5,6,2.75,2019-07-01,7,July,2019
+Germany,Pen,1307,6,2.75,2019-07-01,7,July,2019
+Canada,Pen,567,6,2.75,2019-09-01,9,September,2019
+India,Pen,2110,6,2.75,2019-09-01,9,September,2019
+Canada,Pen,1269,6,2.75,2019-10-01,10,October,2019
+France,Pen,1967,6,2.75,2019-03-01,3,March,2019
+India,Pen,2628,6,2.75,2019-04-01,4,April,2019
+Germany,Pen,681,6,2.75,2019-01-01,1,January,2019
+Germany,Pen,510,6,2.75,2019-04-01,4,April,2019
+United States,Pen,790,6,2.75,2019-05-01,5,May,2019
+France,Pen,639,6,2.75,2019-07-01,7,July,2019
+United States,Pen,1596,6,2.75,2019-09-01,9,September,2019
+Germany,Pen,241,6,2.75,2019-10-01,10,October,2019
+Germany,Pen,2665,6,2.75,2019-11-01,11,November,2019
+France,Pen,853,6,2.75,2019-12-01,12,December,2019
+Canada,Pen,384,6,2.75,2019-01-01,1,January,2019
+Germany,Pen,472,6,2.75,2019-10-01,10,October,2019
+Canada,Pen,1808,6,2.75,2019-11-01,11,November,2019
+India,Pen,1395,6,2.75,2019-07-01,7,July,2019
+United States,Pen,986,6,2.75,2019-10-01,10,October,2019
+India,Pen,905,6,2.75,2019-10-01,10,October,2019
+France,Pen,3997.5,6,2.75,2019-01-01,1,January,2019
+Canada,Pen,2632,6,2.75,2019-06-01,6,June,2019
+France,Pen,1190,6,2.75,2019-06-01,6,June,2019
+India,Pen,604,6,2.75,2019-06-01,6,June,2019
+India,Pen,410,6,2.75,2019-10-01,10,October,2019
+Germany,Pen,1013,6,2.75,2019-12-01,12,December,2019
+India,Pen,1575,6,2.75,2019-02-01,2,February,2019
+United States,Pen,606,6,2.75,2019-04-01,4,April,2019
+United States,Pen,2460,6,2.75,2019-07-01,7,July,2019
+India,Pen,500,6,2.75,2019-03-01,3,March,2019
+France,Pen,2826,6,2.75,2019-05-01,5,May,2019
+France,Pen,663,6,2.75,2019-09-01,9,September,2019
+United States,Pen,914,6,2.75,2019-12-01,12,December,2019
